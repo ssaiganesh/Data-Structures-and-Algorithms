@@ -33,6 +33,10 @@
 			<Add option="-fexceptions" />
 		</Compiler>
 		<Unit filename="main.cpp" />
+		<Unit filename="notes.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="stack.cpp" />
 		<Extensions />
 	</Project>
 </CodeBlocks_project_file>
