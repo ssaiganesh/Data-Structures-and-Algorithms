@@ -7,7 +7,7 @@ space the data structure uses. You do not care if the data structure sometimes i
 it is not. 
 
 """
-import pyhash
+#import pyhash  -- was unable to import this mod(pip install gave errors)
 
 #List of bits : 0 or 1
 bit_vector = [0] * 20
